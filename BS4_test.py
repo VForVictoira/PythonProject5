@@ -22,4 +22,3 @@ info1 = soup.find(href = '/files/youth/')
 info2 = soup.find(class_ = 'ind')
 print((info2.string))
 
-s
