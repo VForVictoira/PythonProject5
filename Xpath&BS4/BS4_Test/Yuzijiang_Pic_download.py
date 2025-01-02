@@ -12,25 +12,23 @@ async def fetch_html(url):
     await browser.close()
     return content
 
-url = 'https://www.xsnvshen.co/album/44090'
-html = asyncio.run(fetch_html(url))
 
 
 
 #pic_link = all.xpath('.//div[@class="swi-hd"]//img/@data-original')
-'''
+
 main_folder = './Xiuren'
 os.makedirs(main_folder, exist_ok=True)
 file_path = os.path.join(main_folder, 'index.html')
 with open(file_path, 'r', encoding='utf-8') as f:
-    html = f.read()'''
+    html = f.read()
 
 
 selector = lxml.html.fromstring(html)
 
 pic_link = selector.xpath('//img/@data-original')
 final_links = ['https://' + link.lstrip('//') for link in pic_link]
-file_path2 = os.path.join(main_folder, 'download3.txt')
+file_path2 = os.path.join(main_folder, 'download4.txt')
 # pic_link =[t for t in pic_link link.lstrip('//')]
 with open(file_path2, 'w', encoding='utf-8') as f:
     f.write('\n'.join(final_links))

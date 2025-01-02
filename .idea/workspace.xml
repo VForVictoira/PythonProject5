@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="测试阿萨德">
-      <change afterPath="$PROJECT_DIR$/ChatGPT 优化鬼吹灯.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/抓取小说网小说.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/抓小说爬虫CHATGPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/鬼吹灯下载.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="Python作业">
+      <change afterPath="$PROJECT_DIR$/MongoDB/PyMongo_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xiuren/xiuren_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/Ehentai_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath前代码练习/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath前代码练习/test3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BS4_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BS_xpath_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPT 优化鬼吹灯.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/ChatGPT 优化鬼吹灯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yuzijiang_Pic_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/Yuzijiang_Pic_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/main.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xpath_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/xpath_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/抓取小说网小说.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/抓取小说网小说.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/抓小说爬虫CHATGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/抓小说爬虫CHATGPT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/鬼吹灯下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/鬼吹灯下载爬虫-使用dummy多线程下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载爬虫-使用dummy多线程下载.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -34,12 +47,18 @@
     &quot;assignee&quot;: &quot;VForVictoira&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="11a5e9c2-44d0-4966-a06c-eaf24cd474e8" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/VForVictoira/PythonProject5.git&quot;,
     &quot;accountId&quot;: &quot;11a5e9c2-44d0-4966-a06c-eaf24cd474e8&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/test2.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -53,25 +72,122 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BS4_test.executor": "Run",
+    "Python.BS_xpath_training.executor": "Run",
+    "Python.Ehentai_download.executor": "Run",
+    "Python.PyMongo_Test.executor": "Run",
+    "Python.PyMongo_Test2.executor": "Run",
+    "Python.Yuzijiang_Pic_download.executor": "Run",
+    "Python.daimai_test.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.xiuren_test.executor": "Run",
+    "Python.xpath_test (1).executor": "Run",
+    "Python.分奇偶计算.executor": "Run",
+    "Python.列表求和.executor": "Run",
+    "Python.找 1000 到 3000 间的偶数.executor": "Run",
     "Python.抓取小说网小说.executor": "Run",
     "Python.抓小说爬虫CHATGPT.executor": "Run",
+    "Python.水仙花数.executor": "Run",
+    "Python.求100以内素数之和.executor": "Run",
+    "Python.统计字符串中的字母和数字个数.executor": "Run",
     "Python.鬼吹灯下载.executor": "Run",
+    "Python.鬼吹灯下载爬虫-使用dummy多线程下载 (1).executor": "Run",
+    "Python.鬼吹灯下载爬虫-使用dummy多线程下载.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.鬼吹灯下载">
-    <configuration name="抓取小说网小说" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4" />
+      <recent name="E:\PythonProjects\PythonProject5" />
+      <recent name="E:\PythonProjects\PythonProject5\Xpath前代码练习" />
+      <recent name="E:\PythonProjects\PythonProject5\BS4_Test" />
+      <recent name="E:\PythonProjects\PythonProject5\xpath_Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.xiuren_test">
+    <configuration name="水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/水仙花数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PyMongo_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/PyMongo_Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PyMongo_Test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MongoDB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Yuzijiang_Pic_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +201,53 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/抓取小说网小说.py" />
+      <option name="SCRIPT_NAME" value="E:\PythonProjects\PythonProject5\BS4_Test\Yuzijiang_Pic_download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="统计字符串中的字母和数字个数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/统计字符串中的字母和数字个数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分奇偶计算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/分奇偶计算.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="抓小说爬虫CHATGPT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xiuren_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,104 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xiuren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/抓小说爬虫CHATGPT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="鬼吹灯下载" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/鬼吹灯下载.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="鬼吹灯下载" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/鬼吹灯下载.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xiuren/xiuren_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.鬼吹灯下载" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.抓取小说网小说" />
-        <item itemvalue="Python.抓小说爬虫CHATGPT" />
+        <item itemvalue="Python.xiuren_test" />
+        <item itemvalue="Python.PyMongo_Test" />
+        <item itemvalue="Python.PyMongo_Test2" />
+        <item itemvalue="Python.Yuzijiang_Pic_download" />
+        <item itemvalue="Python.水仙花数" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +333,21 @@
       <workItem from="1735124234926" duration="2316000" />
       <workItem from="1735138621660" duration="6314000" />
       <workItem from="1735200785578" duration="8898000" />
-      <workItem from="1735299301838" duration="7150000" />
+      <workItem from="1735299301838" duration="9445000" />
+      <workItem from="1735346475067" duration="89000" />
+      <workItem from="1735346860598" duration="61000" />
+      <workItem from="1735346941042" duration="34000" />
+      <workItem from="1735347173791" duration="118000" />
+      <workItem from="1735347298132" duration="11859000" />
+      <workItem from="1735367980722" duration="712000" />
+      <workItem from="1735439422877" duration="6895000" />
+      <workItem from="1735570132267" duration="5694000" />
+      <workItem from="1735577738818" duration="2781000" />
+      <workItem from="1735580753712" duration="7249000" />
+      <workItem from="1735588170258" duration="2640000" />
+      <workItem from="1735635090201" duration="3196000" />
+      <workItem from="1735738463522" duration="709000" />
+      <workItem from="1735817759827" duration="10120000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -281,47 +365,200 @@
       <option name="project" value="LOCAL" />
       <updated>1735122983316</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试阿萨德">
+      <option name="closed" value="true" />
+      <created>1735307216940</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735307216940</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完整第一个爬虫，示例样本">
+      <option name="closed" value="true" />
+      <created>1735363198979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735363198979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="学习xpath 笔记程序">
+      <option name="closed" value="true" />
+      <created>1735456327220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735456327220</updated>
+    </task>
+    <task id="LOCAL-00006" summary="学习BeautifulSoup4笔记">
+      <option name="closed" value="true" />
+      <created>1735571149087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735571149087</updated>
+    </task>
+    <task id="LOCAL-00007" summary="学习BeautifulSoup4笔记">
+      <option name="closed" value="true" />
+      <created>1735571224418</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735571224418</updated>
+    </task>
+    <task id="LOCAL-00008" summary="学习BeautifulSoup4笔记">
+      <option name="closed" value="true" />
+      <created>1735571320104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735571320104</updated>
+    </task>
+    <task id="LOCAL-00009" summary="学习BeautifulSoup4笔记">
+      <option name="closed" value="true" />
+      <created>1735571363159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735571363159</updated>
+    </task>
+    <task id="LOCAL-00010" summary="学习BeautifulSoup4笔记">
+      <option name="closed" value="true" />
+      <created>1735571465509</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735571465509</updated>
+    </task>
+    <task id="LOCAL-00011" summary="使用xpath 获取电影数据并使用csv格式保存到本地&#10;数据中包含电影下载链接">
+      <option name="closed" value="true" />
+      <created>1735589879618</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735589879618</updated>
+    </task>
+    <task id="LOCAL-00012" summary="秀人网图片批量下载">
+      <option name="closed" value="true" />
+      <created>1735589900178</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735589900178</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Python作业">
+      <option name="closed" value="true" />
+      <created>1735638296255</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735638296255</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
     <MESSAGE value="测试阿萨德" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试阿萨德" />
+    <MESSAGE value="完整第一个爬虫，示例样本" />
+    <MESSAGE value="学习xpath 笔记程序" />
+    <MESSAGE value="学习BeautifulSoup4笔记" />
+    <MESSAGE value="使用xpath 获取电影数据并使用csv格式保存到本地&#10;数据中包含电影下载链接" />
+    <MESSAGE value="秀人网图片批量下载" />
+    <MESSAGE value="Python作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python作业" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/鬼吹灯下载.py</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py</url>
+          <line>52</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/xpath_test.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/作业/求100以内素数之和.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MongoDB/PyMongo_Test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="鬼吹灯下载 覆盖结果" MODIFIED="1735306763917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="水仙花数 覆盖结果" MODIFIED="1735637780783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test.coverage" NAME="PyMongo_Test 覆盖结果" MODIFIED="1735831060897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1735362598580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
+    <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1735738540765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
+    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1735825664848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$test.coverage" NAME="test 覆盖结果" MODIFIED="1735303253235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Ehentai_download.coverage" NAME="Ehentai_download 覆盖结果" MODIFIED="1735585236376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test.coverage" NAME="test 覆盖结果" MODIFIED="1735358575829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1735304095097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
