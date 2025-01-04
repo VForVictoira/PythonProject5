@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="Python作业">
-      <change afterPath="$PROJECT_DIR$/MongoDB/PyMongo_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xiuren/xiuren_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/Ehentai_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath前代码练习/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xpath前代码练习/test3.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="更正目录">
+      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/chrome+bs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/使用chromedriver获取源码.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BS4_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BS_xpath_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatGPT 优化鬼吹灯.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/ChatGPT 优化鬼吹灯.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yuzijiang_Pic_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/Yuzijiang_Pic_download.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/main.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xpath_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/xpath_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/抓取小说网小说.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/抓取小说网小说.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/抓小说爬虫CHATGPT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/抓小说爬虫CHATGPT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/鬼吹灯下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/鬼吹灯下载爬虫-使用dummy多线程下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载爬虫-使用dummy多线程下载.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/xpath_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/xpath_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +59,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BS4_exercise1.executor": "Run",
     "Python.BS4_test.executor": "Run",
     "Python.BS_xpath_training.executor": "Run",
     "Python.Ehentai_download.executor": "Run",
     "Python.PyMongo_Test.executor": "Run",
     "Python.PyMongo_Test2.executor": "Run",
     "Python.Yuzijiang_Pic_download.executor": "Run",
+    "Python.chrome+bs4.executor": "Debug",
     "Python.daimai_test.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
@@ -99,6 +88,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/PythonProjects/PythonProject5/Xpath&BS4/BS4_Test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,38 +99,18 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\xpath_Test" />
+      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4" />
       <recent name="E:\PythonProjects\PythonProject5" />
       <recent name="E:\PythonProjects\PythonProject5\Xpath前代码练习" />
-      <recent name="E:\PythonProjects\PythonProject5\BS4_Test" />
-      <recent name="E:\PythonProjects\PythonProject5\xpath_Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.xiuren_test">
-    <configuration name="水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/水仙花数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PyMongo_Test2">
     <configuration name="PyMongo_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
@@ -179,29 +149,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MongoDB/PyMongo_Test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Yuzijiang_Pic_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\PythonProjects\PythonProject5\BS4_Test\Yuzijiang_Pic_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,6 +226,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="chrome+bs4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/chrome+bs4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用chromedriver获取源码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test\使用chromedriver获取源码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="xiuren_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
@@ -304,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PyMongo_Test2" />
+        <item itemvalue="Python.chrome+bs4" />
+        <item itemvalue="Python.使用chromedriver获取源码" />
         <item itemvalue="Python.xiuren_test" />
         <item itemvalue="Python.PyMongo_Test" />
-        <item itemvalue="Python.PyMongo_Test2" />
-        <item itemvalue="Python.Yuzijiang_Pic_download" />
-        <item itemvalue="Python.水仙花数" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +340,8 @@
       <workItem from="1735588170258" duration="2640000" />
       <workItem from="1735635090201" duration="3196000" />
       <workItem from="1735738463522" duration="709000" />
-      <workItem from="1735817759827" duration="10120000" />
+      <workItem from="1735817759827" duration="10223000" />
+      <workItem from="1735997208298" duration="6768000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -453,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735638296255</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="更正目录">
+      <option name="closed" value="true" />
+      <created>1735833055415</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735833055415</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +481,8 @@
     <MESSAGE value="使用xpath 获取电影数据并使用csv格式保存到本地&#10;数据中包含电影下载链接" />
     <MESSAGE value="秀人网图片批量下载" />
     <MESSAGE value="Python作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python作业" />
+    <MESSAGE value="更正目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="更正目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -490,22 +493,22 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/xpath_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/xpath_test.py</url>
           <line>78</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -538,21 +541,28 @@
           <line>1</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MongoDB/PyMongo_Test2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="水仙花数 覆盖结果" MODIFIED="1735637780783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS4_exercise1.coverage" NAME="BS4_exercise1 覆盖结果" MODIFIED="1735999018267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test.coverage" NAME="PyMongo_Test 覆盖结果" MODIFIED="1735831060897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1735362598580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
+    <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1735738540765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
-    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1735825664848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1736003385781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

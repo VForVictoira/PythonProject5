@@ -28,8 +28,8 @@ selector2 = lxml.html.fromstring(html2)
 info5 = selector2.xpath('//li//a//@href')
 info6 = selector2.xpath('//li//a/text()')
 
-file_path = os.path.join('../xpath_Test', 'info5.txt')
-file_path2 = os.path.join('../xpath_Test', 'info6.txt')
+file_path = os.path.join('', 'info5.txt')
+file_path2 = os.path.join('', 'info6.txt')
 
 with open(file_path, 'w', encoding='utf-8') as f:
     f.write(str('\n'.join(info5)))
