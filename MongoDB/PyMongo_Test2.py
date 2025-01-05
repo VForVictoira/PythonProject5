@@ -25,5 +25,15 @@ content1= [x for x in (collection.find({'age':28}))]
 # 而对于其他数据，应该统一使用返回，或者统一使用不返回
 content2 = [x for x in collection.find({'age':28},{'_id':0,'id':4418,'name':1})]
 
-print(content1)
-print(content2)
+
+content3 = [x for x in collection.find({'age':{'$gt':10,'$lt':50}},{'_id':0,'name':1,'age':1})]
+content4 = [x for x in collection.find({'age':{'$gt':10}},{'_id':0,'name':1,'age':1}).sort('age',-1)]
+content6 = [x for x in collection.find({'age':{'$gt':10}},{'_id':0,'name':1,'age':1}).sort('age',1)]
+content5 = [x for x in collection.find({'age':{'$eq':28}},{'_id':0,'name':1,'age':1})]
+content7 = [x for x in collection.find({'age':{'$eq':50}})]
+
+#collection.update_one({'name':'张三'},{'$set':{'name':'郑欣'}})
+#collection.delete_one({'age':50})
+
+content8 = collection.distinct('age')
+print(content8)
