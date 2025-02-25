@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习完成 redis">
-      <change afterPath="$PROJECT_DIR$/AJAX&amp;JSON/JSON_Trans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJAX&amp;JSON/JSON_Trans2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren_TEST1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectPics/06se.com.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectPics/meirentu.cc.gpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectPics/meirentu.cc.gpt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectPics/meirentu.cc.gpt3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectPics/meirentu.cc.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="开始继续学习Python">
+      <change afterPath="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化运维学习/文件操作/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化运维学习/文件操作/获取进程信息.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/Yuzijiang_Pic_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/Yuzijiang_Pic_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/pic_requests_Downloads_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/pic_requests_Downloads_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,71 +56,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.06se.com.executor": "Run",
-    "Python.BS4_exercise1.executor": "Run",
-    "Python.BS4_test.executor": "Run",
-    "Python.BS_xpath_training.executor": "Run",
-    "Python.Ehentai_download.executor": "Run",
-    "Python.JSON_Trans.executor": "Run",
-    "Python.JSON_Trans2.executor": "Run",
-    "Python.PyMongo_Test.executor": "Run",
-    "Python.PyMongo_Test2.executor": "Debug",
-    "Python.Redis_Test1.executor": "Run",
-    "Python.Xiuren_TEST1.executor": "Run",
-    "Python.Yuzijiang_Pic_download.executor": "Run",
-    "Python.chrome+bs4.executor": "Debug",
-    "Python.daimai_test.executor": "Run",
-    "Python.meirentu.cc.executor": "Run",
-    "Python.meirentu.cc.gpt.executor": "Run",
-    "Python.meirentu.cc.gpt3.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test3.executor": "Run",
-    "Python.xiuren_test.executor": "Run",
-    "Python.xpath_test (1).executor": "Run",
-    "Python.从Redis读取章节地址获取内容存储到mongodb中.executor": "Run",
-    "Python.分奇偶计算.executor": "Run",
-    "Python.列表求和.executor": "Run",
-    "Python.找 1000 到 3000 间的偶数.executor": "Run",
-    "Python.抓取小说网小说.executor": "Run",
-    "Python.抓小说爬虫CHATGPT.executor": "Run",
-    "Python.水仙花数.executor": "Run",
-    "Python.求100以内素数之和.executor": "Run",
-    "Python.统计字符串中的字母和数字个数.executor": "Run",
-    "Python.获取章节网址存储到redis 中.executor": "Run",
-    "Python.鬼吹灯下载.executor": "Run",
-    "Python.鬼吹灯下载爬虫-使用dummy多线程下载 (1).executor": "Run",
-    "Python.鬼吹灯下载爬虫-使用dummy多线程下载.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/PythonProjects/PythonProject5/Xpath&BS4/BS4_Test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.06se.com.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7进制.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.BS4_exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BS4_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BS_xpath_training.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ehentai_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON_Trans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON_Trans2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyMongo_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyMongo_Test2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Redis_Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xiuren_TEST1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Yuzijiang_Pic_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chrome+bs4.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.daimai_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kint_Pic_download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meirentu.cc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meirentu.cc.gpt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.meirentu.cc.gpt3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pic_requests_Downloads_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xiuren_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xpath_test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.从Redis读取章节地址获取内容存储到mongodb中.executor&quot;: &quot;Run&quot;,
+    &quot;Python.伪造请求头.executor&quot;: &quot;Run&quot;,
+    &quot;Python.写入配置文件.executor&quot;: &quot;Run&quot;,
+    &quot;Python.分奇偶计算.executor&quot;: &quot;Run&quot;,
+    &quot;Python.列表求和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.图片下载.executor&quot;: &quot;Run&quot;,
+    &quot;Python.找 1000 到 3000 间的偶数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.找素数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.抓取小说网小说.executor&quot;: &quot;Run&quot;,
+    &quot;Python.抓小说爬虫CHATGPT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.水仙花数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.求100以内素数之和.executor&quot;: &quot;Run&quot;,
+    &quot;Python.统计字符串中的字母和数字个数.executor&quot;: &quot;Run&quot;,
+    &quot;Python.获取章节网址存储到redis 中.executor&quot;: &quot;Run&quot;,
+    &quot;Python.读取配置信息.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鬼吹灯下载.executor&quot;: &quot;Run&quot;,
+    &quot;Python.鬼吹灯下载爬虫-使用dummy多线程下载 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.鬼吹灯下载爬虫-使用dummy多线程下载.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PythonProjects/PythonProject5/Xpath&amp;BS4/BS4_Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\Xiuren\抖娘利世" />
+      <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\chromedriver-win64" />
+      <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON" />
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\xpath_Test" />
-      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
-      <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4" />
-      <recent name="E:\PythonProjects\PythonProject5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.meirentu.cc.gpt">
-    <configuration name="06se.com" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.验证码">
+    <configuration name="图片下载" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPics/06se.com.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/图片下载.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +153,99 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Yuzijiang_Pic_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="获取进程信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/获取进程信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="读取配置信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/读取配置信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="写入配置文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/写入配置文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kint_Pic_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +259,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/Yuzijiang_Pic_download.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/kint_Pic_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="meirentu.cc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pic_requests_Downloads_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,58 +277,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPics/meirentu.cc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="meirentu.cc.gpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPics/meirentu.cc.gpt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="meirentu.cc.gpt3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectPics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectPics/meirentu.cc.gpt3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/pic_requests_Downloads_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +293,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.meirentu.cc.gpt" />
-        <item itemvalue="Python.meirentu.cc.gpt3" />
-        <item itemvalue="Python.meirentu.cc" />
-        <item itemvalue="Python.06se.com" />
-        <item itemvalue="Python.Yuzijiang_Pic_download" />
+        <item itemvalue="Python.验证码" />
+        <item itemvalue="Python.图片下载" />
+        <item itemvalue="Python.kint_Pic_download" />
+        <item itemvalue="Python.pic_requests_Downloads_test" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +344,16 @@
       <workItem from="1736475793136" duration="6066000" />
       <workItem from="1736520654603" duration="311000" />
       <workItem from="1736527418277" duration="2428000" />
-      <workItem from="1736529873101" duration="12919000" />
+      <workItem from="1736529873101" duration="13769000" />
+      <workItem from="1736782528171" duration="12912000" />
+      <workItem from="1736799035626" duration="1299000" />
+      <workItem from="1736833201730" duration="1567000" />
+      <workItem from="1736928135701" duration="608000" />
+      <workItem from="1736928809072" duration="768000" />
+      <workItem from="1737265598526" duration="1026000" />
+      <workItem from="1739353068541" duration="4317000" />
+      <workItem from="1739611571604" duration="716000" />
+      <workItem from="1740497799425" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -440,7 +499,63 @@
       <option name="project" value="LOCAL" />
       <updated>1736437804263</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="继续做无用功">
+      <option name="closed" value="true" />
+      <created>1736544618070</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736544618070</updated>
+    </task>
+    <task id="LOCAL-00020" summary="密码学">
+      <option name="closed" value="true" />
+      <created>1736783117949</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736783117949</updated>
+    </task>
+    <task id="LOCAL-00021" summary="selenium 学习">
+      <option name="closed" value="true" />
+      <created>1736800270889</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736800270889</updated>
+    </task>
+    <task id="LOCAL-00022" summary="requests 下载图片成功">
+      <option name="closed" value="true" />
+      <created>1736834753294</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736834753294</updated>
+    </task>
+    <task id="LOCAL-00023" summary="自动化运维学习&#10;学习 configparser pickle&#10;with ... as &#10;open() 函数">
+      <option name="closed" value="true" />
+      <created>1739364631054</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1739364631054</updated>
+    </task>
+    <task id="LOCAL-00024" summary="自动化运维学习&#10;学习 configparser pickle&#10;with ... as &#10;open() 函数">
+      <option name="closed" value="true" />
+      <created>1740497812700</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1740497812700</updated>
+    </task>
+    <task id="LOCAL-00025" summary="开始继续学习Python">
+      <option name="closed" value="true" />
+      <created>1740497933637</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740497933637</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +585,13 @@
     <MESSAGE value="修改部分代码&#10;学习bs4和pymongo" />
     <MESSAGE value="学习完成 mongodb" />
     <MESSAGE value="学习完成 redis" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习完成 redis" />
+    <MESSAGE value="继续做无用功" />
+    <MESSAGE value="密码学" />
+    <MESSAGE value="selenium 学习" />
+    <MESSAGE value="requests 下载图片成功" />
+    <MESSAGE value="自动化运维学习&#10;学习 configparser pickle&#10;with ... as &#10;open() 函数" />
+    <MESSAGE value="开始继续学习Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="开始继续学习Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -544,6 +665,16 @@
           <line>19</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/pic_requests_Downloads_test.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AJAX&amp;JSON/Xiuren/pic_requests_Downloads_test.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -558,14 +689,15 @@
     <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Ehentai_download.coverage" NAME="Ehentai_download 覆盖结果" MODIFIED="1735585236376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$test.coverage" NAME="test 覆盖结果" MODIFIED="1735358575829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$kint_Pic_download.coverage" NAME="kint_Pic_download 覆盖结果" MODIFIED="1736929461139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$Redis_Test1.coverage" NAME="Redis_Test1 覆盖结果" MODIFIED="1736255634426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc.coverage" NAME="meirentu.cc 覆盖结果" MODIFIED="1736539877072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1735304095097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Redismongodb.coverage" NAME="从Redis读取章节地址获取内容存储到mongodb中 覆盖结果" MODIFIED="1736259082107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
-    <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="水仙花数 覆盖结果" MODIFIED="1735637780783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$BS4_exercise1.coverage" NAME="BS4_exercise1 覆盖结果" MODIFIED="1735999018267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736480171166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="写入配置文件 覆盖结果" MODIFIED="1739363732020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/文件操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736789250726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
     <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1736528284237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
@@ -573,7 +705,11 @@
     <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt.coverage" NAME="meirentu.cc.gpt 覆盖结果" MODIFIED="1736543720170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
+    <SUITE FILE_PATH="coverage/PythonProject5$pic_requests_Downloads_test.coverage" NAME="pic_requests_Downloads_test 覆盖结果" MODIFIED="1736928647843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$JSON_Trans.coverage" NAME="JSON_Trans 覆盖结果" MODIFIED="1736476666200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$selenium_test1.coverage" NAME="selenium_test1 覆盖结果" MODIFIED="1736800063906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$7.coverage" NAME="7进制 覆盖结果" MODIFIED="1736788050213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1736928284425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$redis_.coverage" NAME="获取章节网址存储到redis 中 覆盖结果" MODIFIED="1736259066935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt3.coverage" NAME="meirentu.cc.gpt3 覆盖结果" MODIFIED="1736543358117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$JSON_Trans2.coverage" NAME="JSON_Trans2 覆盖结果" MODIFIED="1736479020773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />

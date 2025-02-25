@@ -21,7 +21,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 #driver = webdriver.Chrome(service=service, options=chrome_options)
 # 打开网页
-url = input("Enter URL: ")
+#url = input("Enter URL: ")
+url = 'https://xx.knit.bid/static/images/2021/09/23/%E6%91%84%E5%BD%B1%E5%B8%88mix%E5%A4%9A%E4%BD%8D%E6%A8%A1%E7%89%B9%E5%A4%A7%E5%B0%BA%E5%BA%A6%E6%97%A0%E5%9C%A3%E5%85%89%E4%BD%9C%E5%93%81%5B156P%5D/3592b279d59c97615cac3.jpg'
 #driver.get('https://www.xsnvshen.co/girl/28144')
 #driver.get(url)
 #time.sleep(3)
@@ -43,7 +44,9 @@ url = input("Enter URL: ")
 #pic_src = element.get_attribute('src')
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "Referer": f"{url}",  # 根据情况设置来源
+    "Referer": f"{url}",
+    'age':'14342',
+    'Content-Encoding':'zstd',# 根据情况设置来源
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
 }
 pic_response = requests.get(url,headers=headers)
