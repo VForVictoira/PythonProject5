@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="开始继续学习Python">
-      <change afterPath="$PROJECT_DIR$/自动化运维学习/日志操作/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test4.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习FTP服务器">
+      <change afterPath="$PROJECT_DIR$/自动化运维学习/邮件提醒/send HTML mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化运维学习/邮件提醒/sendmail附件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化运维学习/邮件提醒/sendmial1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +63,8 @@
     "Python.BS4_test.executor": "Run",
     "Python.BS_xpath_training.executor": "Run",
     "Python.Ehentai_download.executor": "Run",
+    "Python.FTP_client.executor": "Run",
+    "Python.FTP_server.executor": "Run",
     "Python.JSON_Trans.executor": "Run",
     "Python.JSON_Trans2.executor": "Run",
     "Python.PyMongo_Test.executor": "Run",
@@ -84,6 +84,9 @@
     "Python.meirentu.cc.gpt3.executor": "Run",
     "Python.pic_requests_Downloads_test.executor": "Run",
     "Python.selenium_test1.executor": "Run",
+    "Python.send HTML mail.executor": "Run",
+    "Python.sendmail附件.executor": "Run",
+    "Python.sendmial1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
@@ -135,8 +138,8 @@
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\xpath_Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.logging_test4">
-    <configuration name="图片下载" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sendmail附件">
+    <configuration name="FTP_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/FTP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/图片下载.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/FTP/FTP_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="验证码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FTP_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/文件操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/FTP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/文件操作/验证码.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/FTP/FTP_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logging_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="send HTML mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/日志操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/邮件提醒/send HTML mail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logging_test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sendmail附件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,12 +286,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/日志操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/邮件提醒/sendmail附件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logging_test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sendmial1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,35 +309,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/日志操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="logging_test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化运维学习/日志操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/日志操作/logging_test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化运维学习/邮件提醒/sendmial1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.logging_test4" />
-        <item itemvalue="Python.logging_test3" />
-        <item itemvalue="Python.logging_test2" />
-        <item itemvalue="Python.logging_test1" />
-        <item itemvalue="Python.图片下载" />
+        <item itemvalue="Python.sendmail附件" />
+        <item itemvalue="Python.send HTML mail" />
+        <item itemvalue="Python.sendmial1" />
+        <item itemvalue="Python.FTP_client" />
+        <item itemvalue="Python.FTP_server" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +387,9 @@
       <workItem from="1739353068541" duration="4317000" />
       <workItem from="1739611571604" duration="716000" />
       <workItem from="1740497799425" duration="1257000" />
-      <workItem from="1740575587627" duration="3125000" />
+      <workItem from="1740575587627" duration="3235000" />
+      <workItem from="1740745841741" duration="3266000" />
+      <workItem from="1740900636844" duration="3925000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -633,7 +615,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740498289253</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="学习日志处理">
+      <option name="closed" value="true" />
+      <created>1740578861373</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740578861373</updated>
+    </task>
+    <task id="LOCAL-00030" summary="学习FTP服务器">
+      <option name="closed" value="true" />
+      <created>1740749674516</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740749674516</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,7 +667,9 @@
     <MESSAGE value="requests 下载图片成功" />
     <MESSAGE value="自动化运维学习&#10;学习 configparser pickle&#10;with ... as &#10;open() 函数" />
     <MESSAGE value="开始继续学习Python" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始继续学习Python" />
+    <MESSAGE value="学习日志处理" />
+    <MESSAGE value="学习FTP服务器" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习FTP服务器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -761,11 +761,12 @@
     <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test.coverage" NAME="PyMongo_Test 覆盖结果" MODIFIED="1735831060897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1735362598580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$FTP_server.coverage" NAME="FTP_server 覆盖结果" MODIFIED="1740746495966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
     <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$logging_test4.coverage" NAME="logging_test4 覆盖结果" MODIFIED="1740578725263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$logging_test4.coverage" NAME="logging_test4 覆盖结果" MODIFIED="1740578763508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$Ehentai_download.coverage" NAME="Ehentai_download 覆盖结果" MODIFIED="1735585236376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$logging_test1.coverage" NAME="logging_test1 覆盖结果" MODIFIED="1740576209891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$test.coverage" NAME="test 覆盖结果" MODIFIED="1735358575829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -775,14 +776,18 @@
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1735304095097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/PythonProject5$Redismongodb.coverage" NAME="从Redis读取章节地址获取内容存储到mongodb中 覆盖结果" MODIFIED="1736259082107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$FTP_client.coverage" NAME="FTP_client 覆盖结果" MODIFIED="1740749506338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
     <SUITE FILE_PATH="coverage/PythonProject5$BS4_exercise1.coverage" NAME="BS4_exercise1 覆盖结果" MODIFIED="1735999018267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="验证码 覆盖结果" MODIFIED="1740498216728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/文件操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736789250726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
     <SUITE FILE_PATH="coverage/PythonProject5$logging_test3.coverage" NAME="logging_test3 覆盖结果" MODIFIED="1740578027209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$sendmail.coverage" NAME="sendmail附件 覆盖结果" MODIFIED="1740904266819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
     <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$send_HTML_mail.coverage" NAME="send HTML mail 覆盖结果" MODIFIED="1740903937940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
     <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1736528284237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1736085684692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$sendmial1.coverage" NAME="sendmial1 覆盖结果" MODIFIED="1740901691985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
     <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt.coverage" NAME="meirentu.cc.gpt 覆盖结果" MODIFIED="1736543720170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
