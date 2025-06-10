@@ -1,0 +1,5 @@
+Wed, 26 Feb 2025 21:29:08 logging_test2.py[line:10] DEBUG debug message
+Wed, 26 Feb 2025 21:29:08 logging_test2.py[line:11] INFO info message
+Wed, 26 Feb 2025 21:29:08 logging_test2.py[line:12] WARNING warning message
+Wed, 26 Feb 2025 21:29:08 logging_test2.py[line:13] ERROR error message
+Wed, 26 Feb 2025 21:29:08 logging_test2.py[line:14] CRITICAL critical message

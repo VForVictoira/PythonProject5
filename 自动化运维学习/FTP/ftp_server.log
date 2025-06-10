@@ -1,0 +1,29 @@
+2025-02-28 20:41:36,080 - pyftpdlib - INFO - concurrency model: async
+2025-02-28 20:41:36,080 - pyftpdlib - INFO - masquerade (NAT) address: None
+2025-02-28 20:41:36,080 - pyftpdlib - INFO - passive ports: 2000->2332
+2025-02-28 20:41:36,080 - pyftpdlib - INFO - >>> starting FTP server on 0.0.0.0:21, pid=36008 <<<
+2025-02-28 20:47:32,063 - pyftpdlib - INFO - concurrency model: async
+2025-02-28 20:47:32,063 - pyftpdlib - INFO - masquerade (NAT) address: None
+2025-02-28 20:47:32,063 - pyftpdlib - INFO - passive ports: 2000->2332
+2025-02-28 20:47:32,063 - pyftpdlib - INFO - >>> starting FTP server on 0.0.0.0:21, pid=28896 <<<
+2025-02-28 20:47:57,141 - pyftpdlib - INFO - 127.0.0.1:35864-[] FTP session opened (connect)
+2025-02-28 20:48:21,907 - pyftpdlib - INFO - 127.0.0.1:35864-[] FTP session closed (disconnect).
+2025-02-28 20:48:23,821 - pyftpdlib - INFO - 127.0.0.1:35900-[] FTP session opened (connect)
+2025-02-28 20:48:30,868 - pyftpdlib - INFO - 127.0.0.1:35900-[] USER 'user' failed login.
+2025-02-28 20:48:37,913 - pyftpdlib - INFO - 127.0.0.1:35900-[] FTP session closed (disconnect).
+2025-02-28 20:48:43,558 - pyftpdlib - INFO - 127.0.0.1:35915-[] FTP session opened (connect)
+2025-02-28 20:48:50,314 - pyftpdlib - INFO - 127.0.0.1:35915-[user] USER 'user' logged in.
+2025-02-28 20:51:12,240 - pyftpdlib - INFO - 127.0.0.1:35915-[user] RETR E:\PythonProjects\PythonProject5\自动化运维学习\FTP\ftp_server.log completed=1 bytes=1299 seconds=0.006
+2025-02-28 20:51:58,721 - pyftpdlib - INFO - 127.0.0.1:35915-[user] STOR E:\PythonProjects\PythonProject5\自动化运维学习\FTP\1.txt completed=1 bytes=0 seconds=0.008
+2025-02-28 20:57:01,487 - pyftpdlib - INFO - 127.0.0.1:35915-[user] Control connection timed out.
+2025-02-28 20:57:01,488 - pyftpdlib - INFO - 127.0.0.1:35915-[user] FTP session closed (disconnect).
+2025-02-28 21:31:15,705 - pyftpdlib - INFO - 127.0.0.1:37618-[] FTP session opened (connect)
+2025-02-28 21:31:18,707 - pyftpdlib - INFO - 127.0.0.1:37618-[] USER 'user' failed login.
+2025-02-28 21:31:18,730 - pyftpdlib - INFO - 127.0.0.1:37618-[] FTP session closed (disconnect).
+2025-02-28 21:31:33,588 - pyftpdlib - INFO - 127.0.0.1:37625-[] FTP session opened (connect)
+2025-02-28 21:31:36,603 - pyftpdlib - INFO - 127.0.0.1:37625-[] USER 'user' failed login.
+2025-02-28 21:31:36,616 - pyftpdlib - INFO - 127.0.0.1:37625-[] FTP session closed (disconnect).
+2025-02-28 21:31:48,484 - pyftpdlib - INFO - 127.0.0.1:37632-[] FTP session opened (connect)
+2025-02-28 21:31:48,485 - pyftpdlib - INFO - 127.0.0.1:37632-[user] USER 'user' logged in.
+2025-02-28 21:31:48,486 - pyftpdlib - INFO - 127.0.0.1:37632-[user] CWD E:\PythonProjects\PythonProject5\自动化运维学习\FTP\test 550 'No such file or directory.'
+2025-02-28 21:31:48,494 - pyftpdlib - INFO - 127.0.0.1:37632-[user] FTP session closed (disconnect).

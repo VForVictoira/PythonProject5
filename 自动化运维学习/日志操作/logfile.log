@@ -1,0 +1,3 @@
+2025-02-26 21:53:47,304 - simple_example - WARNING - warning message
+2025-02-26 21:53:47,304 - simple_example - ERROR - error message
+2025-02-26 21:53:47,304 - simple_example - CRITICAL - critical message
