@@ -1,11 +1,6 @@
-import re
-
 import requests
 from bs4 import BeautifulSoup
 import os
-
-
-from Xiuren.xiuren_test import main_folder
 
 url = 'https://www.06se.com/97058.html'
 response = requests.get(url).content.decode('utf-8')
