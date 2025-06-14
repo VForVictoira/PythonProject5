@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="GUI 开始学习">
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/columnspan_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/columnspan_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/padxpady_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/r_c_configure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/r_c_configure_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/rcspan_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/rowColumn_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/rowspan_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/sticky_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/sticky_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/expand_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/expand_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/expand_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/fill_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/pack_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/place/widthHeight_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/place/xy_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/anchor_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/anchor_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/ipadx_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/ipadx_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/ipady_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/ipady_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/padx_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/padx_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/padx_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/padx_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/pady_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/pady_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/pady_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/pady_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_bitmaps_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_bitmaps_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Widget Layout Manager/side_relief_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Widget Layout Manager/pack/side_relief_1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +59,15 @@
     &quot;assignee&quot;: &quot;VForVictoira&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VForVictoira/PythonProject5",
-    "accountId": "6cdf9e5a-02d6-4a4f-b656-fc2ac0363f60"
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="11a5e9c2-44d0-4966-a06c-eaf24cd474e8" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VForVictoira/PythonProject5.git&quot;,
+    &quot;accountId&quot;: &quot;11a5e9c2-44d0-4966-a06c-eaf24cd474e8&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/test2.py" root0="SKIP_INSPECTION" />
   </component>
@@ -40,7 +75,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2qhl7bivDsbdb5XJg2Hi9fhOHtA" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -65,11 +100,14 @@
     "Python.Redis_Test1.executor": "Run",
     "Python.Xiuren_TEST1.executor": "Run",
     "Python.Yuzijiang_Pic_download.executor": "Run",
-    "Python.anchor_1.executor": "Run",
     "Python.chrome+bs4.executor": "Debug",
+    "Python.columnspan_1.executor": "Run",
+    "Python.columnspan_2.executor": "Run",
     "Python.daimai_test.executor": "Run",
-    "Python.ipadx_1.executor": "Run",
-    "Python.ipady_1.executor": "Run",
+    "Python.expand_1.executor": "Run",
+    "Python.expand_2.executor": "Run",
+    "Python.expand_3.executor": "Run",
+    "Python.fill_1.executor": "Run",
     "Python.kint_Pic_download.executor": "Run",
     "Python.label1.executor": "Run",
     "Python.logging_test1.executor": "Run",
@@ -79,26 +117,27 @@
     "Python.meirentu.cc.executor": "Run",
     "Python.meirentu.cc.gpt.executor": "Run",
     "Python.meirentu.cc.gpt3.executor": "Run",
-    "Python.padx_1.executor": "Run",
-    "Python.padx_2.executor": "Run",
-    "Python.pady_2.executor": "Run",
+    "Python.pack_11.executor": "Run",
+    "Python.padxpady_1.executor": "Run",
     "Python.pic_requests_Downloads_test.executor": "Run",
+    "Python.r_c_configure.executor": "Run",
+    "Python.r_c_configure_2.executor": "Run",
+    "Python.rcspan_1.executor": "Run",
+    "Python.rowColumn_1.executor": "Run",
     "Python.selenium_test1.executor": "Run",
     "Python.send HTML mail.executor": "Run",
     "Python.sendmail附件.executor": "Run",
     "Python.sendmial1.executor": "Run",
-    "Python.side_1.executor": "Run",
-    "Python.side_2.executor": "Run",
-    "Python.side_3.executor": "Run",
-    "Python.side_4.executor": "Run",
-    "Python.side_bitmaps_1.executor": "Run",
-    "Python.side_relief_1.executor": "Run",
+    "Python.sticky_1.executor": "Run",
+    "Python.sticky_2.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.test3.executor": "Run",
+    "Python.widthHeight_1.executor": "Run",
     "Python.xiuren_test.executor": "Run",
     "Python.xpath_test (1).executor": "Run",
+    "Python.xy_1.executor": "Run",
     "Python.从Redis读取章节地址获取内容存储到mongodb中.executor": "Run",
     "Python.伪造请求头.executor": "Run",
     "Python.写入配置文件.executor": "Run",
@@ -128,7 +167,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -138,15 +177,15 @@
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Python\PythonProject5\Spider" />
+      <recent name="E:\PythonProjects\PythonProject5\GUI\Widget Layout Manager\pack" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\Xiuren\抖娘利世" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\chromedriver-win64" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON" />
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.anchor_1">
-    <configuration name="anchor_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.relx_1">
+    <configuration name="r_c_configure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/anchor_1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/r_c_configure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ipadx_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="r_c_configure_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/ipadx_1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/grid/r_c_configure_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ipady_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="relx_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +240,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/ipady_1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place/relx_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="padx_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="widthHeight_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/padx_2.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place/widthHeight_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="side_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xy_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +286,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/side_1.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/place/xy_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,18 +302,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.anchor_1" />
-        <item itemvalue="Python.ipady_1" />
-        <item itemvalue="Python.ipadx_1" />
-        <item itemvalue="Python.side_1" />
-        <item itemvalue="Python.padx_2" />
+        <item itemvalue="Python.relx_1" />
+        <item itemvalue="Python.widthHeight_1" />
+        <item itemvalue="Python.xy_1" />
+        <item itemvalue="Python.r_c_configure" />
+        <item itemvalue="Python.r_c_configure_2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26574.90" />
+        <option value="bundled-python-sdk-c1fac28bca04-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26574.90" />
       </set>
     </attachedChunks>
   </component>
@@ -587,15 +632,7 @@
       <option name="project" value="LOCAL" />
       <updated>1749556865289</updated>
     </task>
-    <task id="LOCAL-00033" summary="1. 调整项目文件结构&#10;2. 学习 tkinter.pack">
-      <option name="closed" value="true" />
-      <created>1749708122651</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1749708122651</updated>
-    </task>
-    <option name="localTasksCounter" value="34" />
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,53 +672,52 @@
     <MESSAGE value="学习FTP服务器" />
     <MESSAGE value="学习邮件提醒" />
     <MESSAGE value="GUI 开始学习" />
-    <MESSAGE value="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI 开始学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath前代码练习/鬼吹灯下载.py</url>
+          <url>file://$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py</url>
           <line>52</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/xpath_Test/xpath_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/xpath_test.py</url>
           <line>78</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test/BS4_test.py</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
           <line>33</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
           <line>29</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath前代码练习/鬼吹灯下载.py</url>
+          <url>file://$PROJECT_DIR$/Xpath前代码练习/鬼吹灯下载.py</url>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Spider/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
+          <url>file://$PROJECT_DIR$/Xpath&amp;BS4/xpath_Test/BS_xpath_training.py</url>
           <line>37</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -733,15 +769,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$expand_3.coverage" NAME="expand_3 覆盖结果" MODIFIED="1749904434791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager" />
     <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test.coverage" NAME="PyMongo_Test 覆盖结果" MODIFIED="1735831060897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1735362598580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$FTP_server.coverage" NAME="FTP_server 覆盖结果" MODIFIED="1740746495966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
+    <SUITE FILE_PATH="coverage/PythonProject5$r_c_configure.coverage" NAME="r_c_configure 覆盖结果" MODIFIED="1749906748204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
     <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
-    <SUITE FILE_PATH="coverage/PythonProject5$label1.coverage" NAME="label1 覆盖结果" MODIFIED="1749560238431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
-    <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$logging_test4.coverage" NAME="logging_test4 覆盖结果" MODIFIED="1740578763508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$Ehentai_download.coverage" NAME="Ehentai_download 覆盖结果" MODIFIED="1735585236376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -752,32 +785,51 @@
     <SUITE FILE_PATH="coverage/PythonProject5$Redis_Test1.coverage" NAME="Redis_Test1 覆盖结果" MODIFIED="1736255634426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc.coverage" NAME="meirentu.cc 覆盖结果" MODIFIED="1736539877072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1735304095097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Redismongodb.coverage" NAME="从Redis读取章节地址获取内容存储到mongodb中 覆盖结果" MODIFIED="1736259082107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$FTP_client.coverage" NAME="FTP_client 覆盖结果" MODIFIED="1740749506338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
-    <SUITE FILE_PATH="coverage/PythonProject5$BS4_exercise1.coverage" NAME="BS4_exercise1 覆盖结果" MODIFIED="1735999018267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="验证码 覆盖结果" MODIFIED="1740498216728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/文件操作" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736789250726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
-    <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
-    <SUITE FILE_PATH="coverage/PythonProject5$logging_test3.coverage" NAME="logging_test3 覆盖结果" MODIFIED="1740578027209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$pack_11.coverage" NAME="pack_11 覆盖结果" MODIFIED="1749904735865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager" />
     <SUITE FILE_PATH="coverage/PythonProject5$sendmail.coverage" NAME="sendmail附件 覆盖结果" MODIFIED="1740904266819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
-    <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
-    <SUITE FILE_PATH="coverage/PythonProject5$send_HTML_mail.coverage" NAME="send HTML mail 覆盖结果" MODIFIED="1740903937940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
     <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1736528284237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
-    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1736085684692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$sendmial1.coverage" NAME="sendmial1 覆盖结果" MODIFIED="1740901691985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
-    <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt.coverage" NAME="meirentu.cc.gpt 覆盖结果" MODIFIED="1736543720170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
-    <SUITE FILE_PATH="coverage/PythonProject5$pic_requests_Downloads_test.coverage" NAME="pic_requests_Downloads_test 覆盖结果" MODIFIED="1736928647843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
-    <SUITE FILE_PATH="coverage/PythonProject5$JSON_Trans.coverage" NAME="JSON_Trans 覆盖结果" MODIFIED="1736476666200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
-    <SUITE FILE_PATH="coverage/PythonProject5$selenium_test1.coverage" NAME="selenium_test1 覆盖结果" MODIFIED="1736800063906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS4_test.coverage" NAME="BS4_test 覆盖结果" MODIFIED="1735575724396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$7.coverage" NAME="7进制 覆盖结果" MODIFIED="1736788050213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
-    <SUITE FILE_PATH="coverage/PythonProject5$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1736928284425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
+    <SUITE FILE_PATH="coverage/PythonProject5$r_c_configure_2.coverage" NAME="r_c_configure_2 覆盖结果" MODIFIED="1749906634519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
     <SUITE FILE_PATH="coverage/PythonProject5$redis_.coverage" NAME="获取章节网址存储到redis 中 覆盖结果" MODIFIED="1736259066935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt3.coverage" NAME="meirentu.cc.gpt3 覆盖结果" MODIFIED="1736543358117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$JSON_Trans2.coverage" NAME="JSON_Trans2 覆盖结果" MODIFIED="1736479020773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$sticky_1.coverage" NAME="sticky_1 覆盖结果" MODIFIED="1749906148137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$padxpady_1.coverage" NAME="padxpady_1 覆盖结果" MODIFIED="1749905793618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$columnspan_2.coverage" NAME="columnspan_2 覆盖结果" MODIFIED="1749905493714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$label1.coverage" NAME="label1 覆盖结果" MODIFIED="1749903740246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
+    <SUITE FILE_PATH="coverage/PythonProject5$rcspan_1.coverage" NAME="rcspan_1 覆盖结果" MODIFIED="1749905758549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$sticky_2.coverage" NAME="sticky_2 覆盖结果" MODIFIED="1749906375706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$expand_1.coverage" NAME="expand_1 覆盖结果" MODIFIED="1749904254787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+    <SUITE FILE_PATH="coverage/PythonProject5$widthHeight_1.coverage" NAME="widthHeight_1 覆盖结果" MODIFIED="1749907894721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/place" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Redismongodb.coverage" NAME="从Redis读取章节地址获取内容存储到mongodb中 覆盖结果" MODIFIED="1736259082107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1735304095097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/PythonProject5$BS4_exercise1.coverage" NAME="BS4_exercise1 覆盖结果" MODIFIED="1735999018267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736789250726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
+    <SUITE FILE_PATH="coverage/PythonProject5$logging_test3.coverage" NAME="logging_test3 覆盖结果" MODIFIED="1740578027209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$100.coverage" NAME="求100以内素数之和 覆盖结果" MODIFIED="1735637634108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/PythonProject5$rowColumn_1.coverage" NAME="rowColumn_1 覆盖结果" MODIFIED="1749905145098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
+    <SUITE FILE_PATH="coverage/PythonProject5$send_HTML_mail.coverage" NAME="send HTML mail 覆盖结果" MODIFIED="1740903937940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/邮件提醒" />
+    <SUITE FILE_PATH="coverage/PythonProject5$expand_2.coverage" NAME="expand_2 覆盖结果" MODIFIED="1749904346336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+    <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1736085684692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/PythonProject5$CHATGPT.coverage" NAME="抓小说爬虫CHATGPT 覆盖结果" MODIFIED="1735142035844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$pic_requests_Downloads_test.coverage" NAME="pic_requests_Downloads_test 覆盖结果" MODIFIED="1736928647843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
+    <SUITE FILE_PATH="coverage/PythonProject5$xy_1.coverage" NAME="xy_1 覆盖结果" MODIFIED="1749907104039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/place" />
+    <SUITE FILE_PATH="coverage/PythonProject5$JSON_Trans.coverage" NAME="JSON_Trans 覆盖结果" MODIFIED="1736476666200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$selenium_test1.coverage" NAME="selenium_test1 覆盖结果" MODIFIED="1736800063906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1736928284425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$logging_test2.coverage" NAME="logging_test2 覆盖结果" MODIFIED="1740576548005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
+    <SUITE FILE_PATH="coverage/PythonProject5$fill_1.coverage" NAME="fill_1 覆盖结果" MODIFIED="1749904097871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+    <SUITE FILE_PATH="coverage/PythonProject5$columnspan_1.coverage" NAME="columnspan_1 覆盖结果" MODIFIED="1749905467561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Widget Layout Manager/grid" />
     <SUITE FILE_PATH="coverage/PythonProject5$06se_com.coverage" NAME="06se.com 覆盖结果" MODIFIED="1736530485994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
   </component>
 </project>
