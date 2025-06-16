@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="1. 调整项目文件结构&#10;2. 学习 tkinter.pack">
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/delete_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/entryShow_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/entryShow_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/entry_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/eval_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/eval_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Entry/insert_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +38,12 @@
     &quot;assignee&quot;: &quot;VForVictoira&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VForVictoira/PythonProject5",
-    "accountId": "6cdf9e5a-02d6-4a4f-b656-fc2ac0363f60"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VForVictoira/PythonProject5&quot;,
+    &quot;accountId&quot;: &quot;6cdf9e5a-02d6-4a4f-b656-fc2ac0363f60&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/test2.py" root0="SKIP_INSPECTION" />
   </component>
@@ -66,8 +77,16 @@
     "Python.Xiuren_TEST1.executor": "Run",
     "Python.Yuzijiang_Pic_download.executor": "Run",
     "Python.anchor_1.executor": "Run",
+    "Python.calculator.executor": "Run",
     "Python.chrome+bs4.executor": "Debug",
     "Python.daimai_test.executor": "Run",
+    "Python.delete_1.executor": "Run",
+    "Python.entryShow_1.executor": "Run",
+    "Python.entryShow_2.executor": "Run",
+    "Python.entry_1.executor": "Run",
+    "Python.eval_1.executor": "Run",
+    "Python.eval_2.executor": "Run",
+    "Python.insert_1.executor": "Run",
     "Python.ipadx_1.executor": "Run",
     "Python.ipady_1.executor": "Run",
     "Python.kint_Pic_download.executor": "Run",
@@ -122,7 +141,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/PythonProjects/PythonProject5/GUI",
+    "last_opened_file_path": "D:/Python/PythonProject5/GUI/Entry",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -134,6 +153,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonProject5\GUI\Entry" />
       <recent name="E:\PythonProjects\PythonProject5\GUI" />
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
     </key>
@@ -145,8 +165,8 @@
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.anchor_1">
-    <configuration name="anchor_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.eval_2">
+    <configuration name="delete_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/anchor_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/delete_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ipadx_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="entryShow_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/ipadx_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/entryShow_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ipady_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="eval_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/ipady_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/eval_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="padx_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="eval_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/padx_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/eval_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="side_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="insert_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Widget Layout Manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Widget Layout Manager/side_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/insert_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.anchor_1" />
-        <item itemvalue="Python.ipady_1" />
-        <item itemvalue="Python.ipadx_1" />
-        <item itemvalue="Python.side_1" />
-        <item itemvalue="Python.padx_2" />
+        <item itemvalue="Python.eval_2" />
+        <item itemvalue="Python.eval_1" />
+        <item itemvalue="Python.delete_1" />
+        <item itemvalue="Python.insert_1" />
+        <item itemvalue="Python.entryShow_2" />
       </list>
     </recent_temporary>
   </component>
@@ -595,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749708122651</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="1. 调整项目文件结构&#10;2. 学习 tkinter.pack">
+      <option name="closed" value="true" />
+      <created>1749708139950</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1749708139950</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
