@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="1. 调整项目文件结构&#10;2. 学习 tkinter.pack">
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/delete_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/entryShow_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/entryShow_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/entry_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/eval_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/eval_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Entry/insert_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/calculator.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习文本框 Entry">
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variableTrace_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesGet_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesSet_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_R-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +114,11 @@
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.test3.executor": "Run",
+    "Python.variableTrace_3.executor": "Run",
+    "Python.variablesGet_1.executor": "Run",
+    "Python.variablesTrace_1.executor": "Run",
+    "Python.variablesTrace_2.executor": "Run",
+    "Python.variablesTrace_R-1.executor": "Run",
     "Python.xiuren_test.executor": "Run",
     "Python.xpath_test (1).executor": "Run",
     "Python.从Redis读取章节地址获取内容存储到mongodb中.executor": "Run",
@@ -165,8 +168,8 @@
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.eval_2">
-    <configuration name="delete_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.calculator">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/delete_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="entryShow_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="variableTrace_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/entryShow_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variableTrace_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eval_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="variablesTrace_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/eval_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eval_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="variablesTrace_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/eval_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insert_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="variablesTrace_R-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Entry" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Entry/insert_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_R-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.eval_2" />
-        <item itemvalue="Python.eval_1" />
-        <item itemvalue="Python.delete_1" />
-        <item itemvalue="Python.insert_1" />
-        <item itemvalue="Python.entryShow_2" />
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.variableTrace_3" />
+        <item itemvalue="Python.variablesTrace_R-1" />
+        <item itemvalue="Python.variablesTrace_2" />
+        <item itemvalue="Python.variablesTrace_1" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749708139950</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="学习文本框 Entry">
+      <option name="closed" value="true" />
+      <created>1750055929482</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1750055929482</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -664,7 +675,8 @@
     <MESSAGE value="学习邮件提醒" />
     <MESSAGE value="GUI 开始学习" />
     <MESSAGE value="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
+    <MESSAGE value="学习文本框 Entry" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习文本框 Entry" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
