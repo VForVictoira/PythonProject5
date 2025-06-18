@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习文本框 Entry">
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variableTrace_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesGet_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesSet_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Variables/variablesTrace_R-1.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="完成计算器的编写">
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/checkButton_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicCheckbutton_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicCheckbutton_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicRadiobutton_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/radioButton_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/radioButton_checkBoxes/radioButton_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工作脚本/translate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +76,13 @@
     "Python.Yuzijiang_Pic_download.executor": "Run",
     "Python.anchor_1.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.checkButton_1.executor": "Run",
     "Python.chrome+bs4.executor": "Debug",
     "Python.daimai_test.executor": "Run",
     "Python.delete_1.executor": "Run",
+    "Python.dicCheckbutton_1.executor": "Run",
+    "Python.dicCheckbutton_2.executor": "Run",
+    "Python.dicRadiobutton_1.executor": "Run",
     "Python.entryShow_1.executor": "Run",
     "Python.entryShow_2.executor": "Run",
     "Python.entry_1.executor": "Run",
@@ -100,6 +104,8 @@
     "Python.padx_2.executor": "Run",
     "Python.pady_2.executor": "Run",
     "Python.pic_requests_Downloads_test.executor": "Run",
+    "Python.radioButton_1.executor": "Run",
+    "Python.radioButton_2.executor": "Run",
     "Python.selenium_test1.executor": "Run",
     "Python.send HTML mail.executor": "Run",
     "Python.sendmail附件.executor": "Run",
@@ -114,6 +120,7 @@
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.test3.executor": "Run",
+    "Python.translate.executor": "Run",
     "Python.variableTrace_3.executor": "Run",
     "Python.variablesGet_1.executor": "Run",
     "Python.variablesTrace_1.executor": "Run",
@@ -168,8 +175,8 @@
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculator">
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dicCheckbutton_1">
+    <configuration name="checkButton_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes/checkButton_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variableTrace_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dicCheckbutton_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variableTrace_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicCheckbutton_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variablesTrace_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dicCheckbutton_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicCheckbutton_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variablesTrace_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dicRadiobutton_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes/dicRadiobutton_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variablesTrace_R-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="radioButton_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Variables/variablesTrace_R-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/radioButton_checkBoxes/radioButton_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.variableTrace_3" />
-        <item itemvalue="Python.variablesTrace_R-1" />
-        <item itemvalue="Python.variablesTrace_2" />
-        <item itemvalue="Python.variablesTrace_1" />
+        <item itemvalue="Python.dicCheckbutton_1" />
+        <item itemvalue="Python.dicCheckbutton_2" />
+        <item itemvalue="Python.checkButton_1" />
+        <item itemvalue="Python.dicRadiobutton_1" />
+        <item itemvalue="Python.radioButton_2" />
       </list>
     </recent_temporary>
   </component>
@@ -634,7 +641,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750055929482</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="学习变量">
+      <option name="closed" value="true" />
+      <created>1750142622932</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1750142622932</updated>
+    </task>
+    <task id="LOCAL-00037" summary="完成计算器的编写">
+      <option name="closed" value="true" />
+      <created>1750142634840</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1750142634840</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +675,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="测试" />
     <MESSAGE value="测试阿萨德" />
     <MESSAGE value="完整第一个爬虫，示例样本" />
     <MESSAGE value="学习xpath 笔记程序" />
@@ -676,7 +698,9 @@
     <MESSAGE value="GUI 开始学习" />
     <MESSAGE value="1. 调整项目文件结构&#10;2. 学习 tkinter.pack" />
     <MESSAGE value="学习文本框 Entry" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习文本框 Entry" />
+    <MESSAGE value="学习变量" />
+    <MESSAGE value="完成计算器的编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成计算器的编写" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
