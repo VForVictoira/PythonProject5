@@ -12,7 +12,7 @@ def btn_hit():
 window = Tk()
 window.title('GET')
 
-msg_on = False
+msg_on = True
 x = StringVar()
 
 label = Label(window, textvariable=x,fg='blue',bg='lightyellow',font=('Arial',20,'bold'),
