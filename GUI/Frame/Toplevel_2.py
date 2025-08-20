@@ -17,7 +17,7 @@ def MessgeBox():
     elif msgType == msgExit:
         labTxt='EXIT'
     tl = Toplevel()
-    tl.title("Message Box")
+    tl.title("Message_Messagebox Box")
     tl.geometry("300x150")
     Label(tl,text=labTxt).pack(fill=BOTH,expand=1)
 
