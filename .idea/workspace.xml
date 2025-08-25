@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习 Spinbox 和 Scale">
-      <change afterPath="$PROJECT_DIR$/Programs/cisspExamRecord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/cisspExamRecord_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/cisspExamRecord_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/dist/cisspExamRecord_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Word/1.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="制作考试选择记录软件">
+      <change afterPath="$PROJECT_DIR$/GUI/Combobox/Combobox_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Combobox/Combobox_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +34,12 @@
     &quot;assignee&quot;: &quot;VForVictoira&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/VForVictoira/PythonProject5.git&quot;,
-    &quot;accountId&quot;: &quot;346b2338-690c-42c1-a9de-33324c788dce&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VForVictoira/PythonProject5.git",
+    "accountId": "11a5e9c2-44d0-4966-a06c-eaf24cd474e8"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/test2.py" root0="SKIP_INSPECTION" />
   </component>
@@ -61,6 +61,8 @@
     "Python.BS4_exercise1.executor": "Run",
     "Python.BS4_test.executor": "Run",
     "Python.BS_xpath_training.executor": "Run",
+    "Python.Combobox_1.executor": "Run",
+    "Python.Combobox_2.executor": "Run",
     "Python.Ehentai_download.executor": "Run",
     "Python.FTP_client.executor": "Run",
     "Python.FTP_server.executor": "Run",
@@ -78,6 +80,9 @@
     "Python.Message_2.executor": "Run",
     "Python.Messagebox.executor": "Run",
     "Python.Messagebox_2.executor": "Run",
+    "Python.OptionMenu_1.executor": "Run",
+    "Python.OptionMenu_2.executor": "Run",
+    "Python.OptionMenu_3.executor": "Run",
     "Python.PhotoImage1.executor": "Run",
     "Python.PyMongo_Test.executor": "Run",
     "Python.PyMongo_Test2.executor": "Debug",
@@ -104,6 +109,7 @@
     "Python.cisspExamRecord_2.executor": "Run",
     "Python.cisspExamRecord_3.executor": "Run",
     "Python.cisspExamRecord_4.executor": "Run",
+    "Python.cisspExamRecord_5.executor": "Run",
     "Python.command_1.executor": "Run",
     "Python.command_2.executor": "Run",
     "Python.command_3.executor": "Run",
@@ -203,15 +209,15 @@
       <recent name="E:\PythonProjects\PythonProject5\Xpath&amp;BS4\BS4_Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\PythonProject5\Programs" />
       <recent name="D:\Python\PythonProject5\Spider" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\Xiuren\抖娘利世" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON\chromedriver-win64" />
       <recent name="E:\PythonProjects\PythonProject5\AJAX&amp;JSON" />
-      <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cisspExamRecord_5">
-    <configuration name="cisspExamRecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Combobox_2">
+    <configuration name="Combobox_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,12 +226,104 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Combobox" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/cisspExamRecord.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Combobox/Combobox_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Combobox_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Combobox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Combobox/Combobox_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OptionMenu_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/OptionMenu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OptionMenu_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/OptionMenu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OptionMenu_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/OptionMenu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/OptionMenu/OptionMenu_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,13 +424,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cisspExamRecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/cisspExamRecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cisspExamRecord_5" />
-        <item itemvalue="Python.cisspExamRecord_4" />
-        <item itemvalue="Python.cisspExamRecord_3" />
-        <item itemvalue="Python.cisspExamRecord_2" />
-        <item itemvalue="Python.cisspExamRecord" />
+        <item itemvalue="Python.Combobox_2" />
+        <item itemvalue="Python.Combobox_1" />
+        <item itemvalue="Python.OptionMenu_3" />
+        <item itemvalue="Python.OptionMenu_2" />
+        <item itemvalue="Python.OptionMenu_1" />
       </list>
     </recent_temporary>
   </component>
@@ -403,6 +524,7 @@
       <workItem from="1749558941880" duration="5488000" />
       <workItem from="1755227877650" duration="8180000" />
       <workItem from="1755700052341" duration="2798000" />
+      <workItem from="1756128174832" duration="1661000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -708,7 +830,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755619141047</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="制作考试选择记录软件">
+      <option name="closed" value="true" />
+      <created>1755793856765</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1755793856765</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,7 +856,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="完整第一个爬虫，示例样本" />
     <MESSAGE value="学习xpath 笔记程序" />
     <MESSAGE value="学习BeautifulSoup4笔记" />
     <MESSAGE value="使用xpath 获取电影数据并使用csv格式保存到本地&#10;数据中包含电影下载链接" />
@@ -751,7 +880,8 @@
     <MESSAGE value="学习变量" />
     <MESSAGE value="完成计算器的编写" />
     <MESSAGE value="学习 Spinbox 和 Scale" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习 Spinbox 和 Scale" />
+    <MESSAGE value="制作考试选择记录软件" />
+    <option name="LAST_COMMIT_MESSAGE" value="制作考试选择记录软件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -844,10 +974,16 @@
           <line>19</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programs/cisspExamRecord_5.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject5$OptionMenu_1.coverage" NAME="OptionMenu_1 覆盖结果" MODIFIED="1756128561267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/OptionMenu" />
     <SUITE FILE_PATH="coverage/PythonProject5$daimai_test.coverage" NAME="daimai_test 覆盖结果" MODIFIED="1735440150322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$xiuren_test.coverage" NAME="xiuren_test 覆盖结果" MODIFIED="1735832184106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xiuren" />
     <SUITE FILE_PATH="coverage/PythonProject5$FTP_server.coverage" NAME="FTP_server 覆盖结果" MODIFIED="1740746495966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
@@ -866,6 +1002,7 @@
     <SUITE FILE_PATH="coverage/PythonProject5$Spinbox_1.coverage" NAME="Spinbox_1 覆盖结果" MODIFIED="1755618714048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Spinbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$FTP_client.coverage" NAME="FTP_client 覆盖结果" MODIFIED="1740749506338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/FTP" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Combobox_1.coverage" NAME="Combobox_1 覆盖结果" MODIFIED="1756129548282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Combobox" />
     <SUITE FILE_PATH="coverage/PythonProject5$kint_Pic_download.coverage" NAME="kint_Pic_download 覆盖结果" MODIFIED="1736929461139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt.coverage" NAME="meirentu.cc.gpt 覆盖结果" MODIFIED="1736543720170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$command_1.coverage" NAME="command_1 覆盖结果" MODIFIED="1755752975427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
@@ -880,6 +1017,7 @@
     <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="验证码 覆盖结果" MODIFIED="1740498216728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/文件操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$LabelFrame_1.coverage" NAME="LabelFrame_1 覆盖结果" MODIFIED="1755239393942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
     <SUITE FILE_PATH="coverage/PythonProject5$Message_2.coverage" NAME="Message_2 覆盖结果" MODIFIED="1755701048997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Message" />
+    <SUITE FILE_PATH="coverage/PythonProject5$cisspExamRecord_5.coverage" NAME="cisspExamRecord_5 覆盖结果" MODIFIED="1755793823532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
     <SUITE FILE_PATH="coverage/PythonProject5$Frame_1.coverage" NAME="Frame_1 覆盖结果" MODIFIED="1755234382015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
     <SUITE FILE_PATH="coverage/PythonProject5$bind_1.coverage" NAME="bind_1 覆盖结果" MODIFIED="1755756302052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
@@ -907,6 +1045,7 @@
     <SUITE FILE_PATH="coverage/PythonProject5$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1735362598580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$xpath_test__1_.coverage" NAME="xpath_test (1) 覆盖结果" MODIFIED="1735580939069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$Toplevel_1.coverage" NAME="Toplevel_1 覆盖结果" MODIFIED="1755241434607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
+    <SUITE FILE_PATH="coverage/PythonProject5$OptionMenu_3.coverage" NAME="OptionMenu_3 覆盖结果" MODIFIED="1756129052994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/OptionMenu" />
     <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
     <SUITE FILE_PATH="coverage/PythonProject5$Xiuren_TEST1.coverage" NAME="Xiuren_TEST1 覆盖结果" MODIFIED="1736789250726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON" />
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc_gpt3.coverage" NAME="meirentu.cc.gpt3 覆盖结果" MODIFIED="1736543358117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
@@ -920,6 +1059,8 @@
     <SUITE FILE_PATH="coverage/PythonProject5$Frame_4.coverage" NAME="Frame_4 覆盖结果" MODIFIED="1755237906648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
     <SUITE FILE_PATH="coverage/PythonProject5$Spinbox_3.coverage" NAME="Spinbox_3 覆盖结果" MODIFIED="1755618942579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Spinbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$cisspExamRecord_2.coverage" NAME="cisspExamRecord_2 覆盖结果" MODIFIED="1755792222934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Combobox_2.coverage" NAME="Combobox_2 覆盖结果" MODIFIED="1756129838866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Combobox" />
+    <SUITE FILE_PATH="coverage/PythonProject5$OptionMenu_2.coverage" NAME="OptionMenu_2 覆盖结果" MODIFIED="1756128954884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/OptionMenu" />
     <SUITE FILE_PATH="coverage/PythonProject5$cisspExamRecord_3.coverage" NAME="cisspExamRecord_3 覆盖结果" MODIFIED="1755792686140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
     <SUITE FILE_PATH="coverage/PythonProject5$dicCheckbutton_2.coverage" NAME="dicCheckbutton_2 覆盖结果" MODIFIED="1755233794715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
     <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
