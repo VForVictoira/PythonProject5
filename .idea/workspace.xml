@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习 Menu">
-      <change afterPath="$PROJECT_DIR$/GUI/Text/Text_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Text/Text_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Text/Text_font_family.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Text/Text_get.py" afterDir="false" />
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习 Text">
+      <change afterPath="$PROJECT_DIR$/OOP/Example_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Example_TV_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Example_method_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/Text/Text_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/Text/Text_get.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,8 @@
     "Python.BS4_test.executor": "Run",
     "Python.BS_xpath_training.executor": "Run",
     "Python.Ehentai_download.executor": "Run",
+    "Python.Example_1.executor": "Run",
+    "Python.Example_method_1.executor": "Run",
     "Python.FTP_client.executor": "Run",
     "Python.FTP_server.executor": "Run",
     "Python.Fra,me_6.executor": "Run",
@@ -233,10 +235,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonProject5" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonProject5" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\PythonProject5\GUI\Entry" />
@@ -251,8 +261,8 @@
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Text_get">
-    <configuration name="Menu_checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Example_method_1">
+    <configuration name="Example_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,12 +271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Menu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Menu/Menu_checkbutton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Example_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Text_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Example_method_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,12 +294,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Text" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Text/Text_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Example_method_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Example_method_1" />
+        <item itemvalue="Python.Example_1" />
         <item itemvalue="Python.Text_get" />
         <item itemvalue="Python.Text_font_family" />
         <item itemvalue="Python.Text_2" />
-        <item itemvalue="Python.Text_1" />
-        <item itemvalue="Python.Menu_checkbutton" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +463,8 @@
       <workItem from="1756289352863" duration="790000" />
       <workItem from="1756291613882" duration="387000" />
       <workItem from="1756359139546" duration="3613000" />
-      <workItem from="1756465211706" duration="3361000" />
+      <workItem from="1756465211706" duration="3625000" />
+      <workItem from="1756702849134" duration="4089000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -799,7 +810,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756363684868</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="学习 Text">
+      <option name="closed" value="true" />
+      <created>1756468834075</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1756468834075</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,7 +836,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Python作业" />
     <MESSAGE value="更正目录" />
     <MESSAGE value="修改部分代码&#10;学习bs4和pymongo" />
     <MESSAGE value="学习完成 mongodb" />
@@ -842,7 +860,8 @@
     <MESSAGE value="写PVE运行客户端" />
     <MESSAGE value="学习 Progressbar" />
     <MESSAGE value="学习 Menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习 Menu" />
+    <MESSAGE value="学习 Text" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习 Text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -944,19 +963,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject5$Example_method_1.coverage" NAME="Example_method_1 覆盖结果" MODIFIED="1756707524266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonProject5$Menu_1.coverage" NAME="Menu_1 覆盖结果" MODIFIED="1756359505715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Menu" />
     <SUITE FILE_PATH="coverage/PythonProject5$Text_1.coverage" NAME="Text_1 覆盖结果" MODIFIED="1756465699957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Text" />
-    <SUITE FILE_PATH="coverage/PythonProject5$insert_Extended.coverage" NAME="insert_Extended 覆盖结果" MODIFIED="1755845708111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 覆盖结果" MODIFIED="1735347734229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib" />
-    <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
+    <SUITE FILE_PATH="coverage/PythonProject5$insert_Extended.coverage" NAME="insert_Extended 覆盖结果" MODIFIED="1755845708111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$_1000__3000_.coverage" NAME="找 1000 到 3000 间的偶数 覆盖结果" MODIFIED="1735635939271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
-    <SUITE FILE_PATH="coverage/PythonProject5$dicCheckbutton_2.coverage" NAME="dicCheckbutton_2 覆盖结果" MODIFIED="1755233794715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
+    <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$Redismongodb.coverage" NAME="从Redis读取章节地址获取内容存储到mongodb中 覆盖结果" MODIFIED="1736259082107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Progressbar_start_1.coverage" NAME="Progressbar_start_1 覆盖结果" MODIFIED="1756267345798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Progressbar" />
+    <SUITE FILE_PATH="coverage/PythonProject5$dicCheckbutton_2.coverage" NAME="dicCheckbutton_2 覆盖结果" MODIFIED="1755233794715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/radioButton_checkBoxes" />
     <SUITE FILE_PATH="coverage/PythonProject5$Message_2.coverage" NAME="Message_2 覆盖结果" MODIFIED="1755701048997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Message" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Progressbar_start_1.coverage" NAME="Progressbar_start_1 覆盖结果" MODIFIED="1756267345798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Progressbar" />
     <SUITE FILE_PATH="coverage/PythonProject5$Menu_popumenu.coverage" NAME="Menu_popumenu 覆盖结果" MODIFIED="1756363097563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Menu" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Listbox_selection_set.coverage" NAME="Listbox_selection_set 覆盖结果" MODIFIED="1755846142435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$_dummy__1_.coverage" NAME="鬼吹灯下载爬虫-使用dummy多线程下载 (1) 覆盖结果" MODIFIED="1735367999115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Listbox_selection_set.coverage" NAME="Listbox_selection_set 覆盖结果" MODIFIED="1755846142435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$Yuzijiang_Pic_download.coverage" NAME="Yuzijiang_Pic_download 覆盖结果" MODIFIED="1736528284237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$GUI1.coverage" NAME="GUI1 覆盖结果" MODIFIED="1749558855153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
     <SUITE FILE_PATH="coverage/PythonProject5$Messagebox_2.coverage" NAME="Messagebox_2 覆盖结果" MODIFIED="1755702850922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Message_Messagebox" />
@@ -978,9 +998,9 @@
     <SUITE FILE_PATH="coverage/PythonProject5$meirentu_cc.coverage" NAME="meirentu.cc 覆盖结果" MODIFIED="1736539877072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ProjectPics" />
     <SUITE FILE_PATH="coverage/PythonProject5$PyMongo_Test2.coverage" NAME="PyMongo_Test2 覆盖结果" MODIFIED="1736085684692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
     <SUITE FILE_PATH="coverage/PythonProject5$Progressbar_step_1.coverage" NAME="Progressbar_step_1 覆盖结果" MODIFIED="1756266676676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Progressbar" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Fra_me_6.coverage" NAME="Fra,me_6 覆盖结果" MODIFIED="1755238759630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
     <SUITE FILE_PATH="coverage/PythonProject5$Text_2.coverage" NAME="Text_2 覆盖结果" MODIFIED="1756466100438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Text" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Text_get.coverage" NAME="Text_get 覆盖结果" MODIFIED="1756468583758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Text" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Fra_me_6.coverage" NAME="Fra,me_6 覆盖结果" MODIFIED="1755238759630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Text_get.coverage" NAME="Text_get 覆盖结果" MODIFIED="1756468611894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Text" />
     <SUITE FILE_PATH="coverage/PythonProject5$Redis_Test1.coverage" NAME="Redis_Test1 覆盖结果" MODIFIED="1736255634426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
     <SUITE FILE_PATH="coverage/PythonProject5$variablesSet_1.coverage" NAME="variablesSet_1 覆盖结果" MODIFIED="1755232735615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Variables" />
     <SUITE FILE_PATH="coverage/PythonProject5$Spinbox_4.coverage" NAME="Spinbox_4 覆盖结果" MODIFIED="1755619068802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Spinbox" />
@@ -995,6 +1015,7 @@
     <SUITE FILE_PATH="coverage/PythonProject5$PanedWindow_3.coverage" NAME="PanedWindow_3 覆盖结果" MODIFIED="1756202884640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/PanedWindow" />
     <SUITE FILE_PATH="coverage/PythonProject5$Frame_1.coverage" NAME="Frame_1 覆盖结果" MODIFIED="1755234382015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Frame" />
     <SUITE FILE_PATH="coverage/PythonProject5$bind_1.coverage" NAME="bind_1 覆盖结果" MODIFIED="1755756302052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Example_1.coverage" NAME="Example_1 覆盖结果" MODIFIED="1756703642399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/PythonProject5$.coverage" NAME="验证码 覆盖结果" MODIFIED="1740498216728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/文件操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$keyboardBind_2.coverage" NAME="keyboardBind_2 覆盖结果" MODIFIED="1755754730255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
     <SUITE FILE_PATH="coverage/PythonProject5$redis_.coverage" NAME="获取章节网址存储到redis 中 覆盖结果" MODIFIED="1736259066935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
