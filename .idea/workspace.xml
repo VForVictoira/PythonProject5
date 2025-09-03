@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习 Text">
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/Treeview/Treeview_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="41e45f8e-6936-4c8b-b556-00bad0ec0f61" name="更改" comment="学习 Treeview" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,8 +255,8 @@
       <recent name="E:\PythonProjects\PythonProject5\ProjectPics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Treeview_6">
-    <configuration name="Treeview_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.20250903">
+    <configuration name="20250903" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,35 +265,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Treeview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/makeARoom" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Treeview/Treeview_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Treeview_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject5" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Treeview" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Treeview/Treeview_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makeARoom/20250903.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,13 +348,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nicegui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nicegui/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20250903" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.Treeview_6" />
         <item itemvalue="Python.Treeview_5" />
         <item itemvalue="Python.Treeview_4" />
-        <item itemvalue="Python.Treeview_3" />
-        <item itemvalue="Python.Treeview_2" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +459,7 @@
       <workItem from="1756359139546" duration="3613000" />
       <workItem from="1756465211706" duration="3361000" />
       <workItem from="1756628258059" duration="3528000" />
+      <workItem from="1756661700641" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <option name="closed" value="true" />
@@ -820,7 +813,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756534429343</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="学习 Treeview">
+      <option name="closed" value="true" />
+      <created>1756661723673</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1756661723674</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -838,7 +839,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="更正目录" />
     <MESSAGE value="修改部分代码&#10;学习bs4和pymongo" />
     <MESSAGE value="学习完成 mongodb" />
     <MESSAGE value="学习完成 redis" />
@@ -863,7 +863,8 @@
     <MESSAGE value="学习 Progressbar" />
     <MESSAGE value="学习 Menu" />
     <MESSAGE value="学习 Text" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习 Text" />
+    <MESSAGE value="学习 Treeview" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习 Treeview" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -983,8 +984,8 @@
     <SUITE FILE_PATH="coverage/PythonProject5$Text_tag_2.coverage" NAME="Text_tag_2 覆盖结果" MODIFIED="1756531290840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Text" />
     <SUITE FILE_PATH="coverage/PythonProject5$insert_multiple.coverage" NAME="insert_multiple 覆盖结果" MODIFIED="1755845619957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$Listbox_delete.coverage" NAME="Listbox_delete 覆盖结果" MODIFIED="1755846261705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
-    <SUITE FILE_PATH="coverage/PythonProject5$Notebook_1.coverage" NAME="Notebook_1 覆盖结果" MODIFIED="1756208288090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Notebook" />
     <SUITE FILE_PATH="coverage/PythonProject5$command_3.coverage" NAME="command_3 覆盖结果" MODIFIED="1755754227188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
+    <SUITE FILE_PATH="coverage/PythonProject5$Notebook_1.coverage" NAME="Notebook_1 覆盖结果" MODIFIED="1756208288090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Notebook" />
     <SUITE FILE_PATH="coverage/PythonProject5$bind_1.coverage" NAME="bind_1 覆盖结果" MODIFIED="1755756302052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Event" />
     <SUITE FILE_PATH="coverage/PythonProject5$Listbox_sort.coverage" NAME="Listbox_sort 覆盖结果" MODIFIED="1755850346184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
     <SUITE FILE_PATH="coverage/PythonProject5$JCOAISL.coverage" NAME="JCOAISL 覆盖结果" MODIFIED="1756188272069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programs" />
@@ -1023,7 +1024,7 @@
     <SUITE FILE_PATH="coverage/PythonProject5$chrome_bs4.coverage" NAME="chrome+bs4 覆盖结果" MODIFIED="1736002790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath&amp;BS4/BS4_Test" />
     <SUITE FILE_PATH="coverage/PythonProject5$logging_test2.coverage" NAME="logging_test2 覆盖结果" MODIFIED="1740576548005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化运维学习/日志操作" />
     <SUITE FILE_PATH="coverage/PythonProject5$Listbox_curselection.coverage" NAME="Listbox_curselection 覆盖结果" MODIFIED="1755848075470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI/Listbox" />
-    <SUITE FILE_PATH="coverage/PythonProject5$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1736928284425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AJAX&amp;JSON/Xiuren" />
+    <SUITE FILE_PATH="coverage/PythonProject5$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1756661816308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nicegui" />
     <SUITE FILE_PATH="coverage/PythonProject5$test.coverage" NAME="test 覆盖结果" MODIFIED="1735358575829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$BS_xpath_training.coverage" NAME="BS_xpath_training 覆盖结果" MODIFIED="1735584237483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject5$redis_.coverage" NAME="获取章节网址存储到redis 中 覆盖结果" MODIFIED="1736259066935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Redis" />
